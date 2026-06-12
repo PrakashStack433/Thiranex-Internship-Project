@@ -1,2 +1,4 @@
 # Thiranex-Internship-Project
-Code in master branch
+
+It is just some projects at C++ for Thiranex Internship
+
